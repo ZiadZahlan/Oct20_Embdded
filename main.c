@@ -1,3 +1,4 @@
+#include <stdlib>
 #include <stdlib.h>
 #define NO_OF_STUDENTS   5
 
