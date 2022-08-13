@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <stdlib.h>
 #define NO_OF_STUDENTS   5
 
@@ -39,5 +38,6 @@ int main()
 
         k++;
     }
+	printf("Hello World");
     return 0;
 }
